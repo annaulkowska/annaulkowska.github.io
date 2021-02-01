@@ -1,1 +1,50 @@
 google.com, pub-5104261091813493, DIRECT, f08c47fec0942fa0
+
+
+adform.com, 2288, DIRECT, 9f5210a2f0999e32
+smartadserver.com, 3398, DIRECT
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+pubmatic.com, 156439, RESELLER, 5d62403b186f2ace
+pubmatic.com, 154037, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+districtm.io, 101760, RESELLER, 3fd707be9c4527c3
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b
+xad.com, 958, RESELLER, 81cbf0a75a5e0e9a
+rhythmone.com, 2564526802, RESELLER, a670c89d4a324e47
+smaato.com, 1100044045, RESELLER, 07bcf65f187117b4
+pubnative.net, 1006576, RESELLER, d641df8625486a7b
+adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER
+axonix.com, 57264, RESELLER
+admanmedia.com, 43, RESELLER
+facebook.com, 157680725192518, RESELLER, c3e20eee3f780d68
+rtbhouse.com, 4ADrotegR2qvRrueWHQt, RESELLER
+adocean-global.com, 108441, RESELLER
+clickonometrics.pl, 19347, RESELLER
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b
+groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a
+google.com, pub-7665719984960975, DIRECT
+google.com, pub-7884752702118496, DIRECT, f08c47fec0942fa0
+unity.com, 2582359, DIRECT, 96cabb5fbdde37a7
+loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
+adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
+pokkt.com, 6246, RESELLER, c45702d9311e25fd
+pubmatic.com, 156520, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157384, RESELLER, 5d62403b186f2ace
+spotxchange.com, 117872, RESELLER, 7842df1d2fe2db34
+spotx.tv, 117872, RESELLER, 7842df1d2fe2db34
+openx.com, 540871654, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 20014, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 21526, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20050, RESELLER, 0bfd66d529a55807
+reforge.in, 107, RESELLER
+velismedia.com, 725, RESELLER
+appnexus.com, 7353, RESELLER
+xandr.com, 7353, RESELLER
+algorix.co, 54616, RESELLER
+telaria.com, rwd19-2582359, RESELLER, 1a4e959a1b50034a
+tremorhub.com, rwd19-2582359, RESELLER, 1a4e959a1b50034a
+mopub.com, 02f91a51c3bc41f08754995690ea518d, DIRECT, 74b46c0ea83967ca
+rubiconproject.com, 21648, RESELLER, 0bfd66d529a55807
